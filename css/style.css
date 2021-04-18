@@ -1,0 +1,173 @@
+body{
+	background-color: #f0f5f9;
+}
+
+.firstbackimage{
+	display: block;
+	position: relative;
+	background-image: url('https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/s569522dbe885ee50/backgroundarea/i2b3739beaea54c1b/version/1503305360/image.jpg ');
+	height: 300px;
+	width:1537px;
+	position: relative;
+	margin-left: -8px;
+	margin-top: -9px; 
+}
+
+.buttonDisign{
+	display: block;
+	position: absolute;
+	background-color: Lavender;
+	padding: 0.45rem 0.75rem;
+	border-radius: 7px;
+	color: Gray;
+	margin-left: 1395px;
+	margin-top: -5px;
+}
+
+.mainPhoto{
+	display: block-inline;
+	position: absolute;
+	border:5px #2b2d42 solid;
+	margin-left: 100px;
+	margin-top: -215px;
+}
+
+.aboutMe, .myBiography, .myHobbies, .education{
+	display: block;
+	height: 170px;
+	width: 550px;
+	position: relative;
+}
+
+.aboutMe{
+	margin-top: 35px;
+	margin-left:130px; 
+}
+
+.myBiography{
+	height: 190px;
+	margin-left: 825px;
+	margin-top: -177px;
+
+}
+
+.myHobbies{
+	margin-left: 130px;
+	margin-top: -70px; 
+}
+
+.education{
+	height: 175px;
+	position: relative;
+	margin-left: 825px;
+	margin-top: -155px;
+}
+
+.underhr{
+	width: 55px;
+	height: 5px;
+	background-color: #df3143;
+}
+
+
+.scills{
+	position: relative;
+	margin-left: 50px; 
+}
+
+.programmingScills{
+	display: inline-block;
+	position: absolute;
+	margin-left:830px;
+	margin-top: -277px;
+}
+
+progress {
+/* стили */
+border:1px black solid;
+width:130px;
+height: 11px;
+border-radius: 2px;
+}
+progress::-webkit-progress-bar {
+/* Chrome и Opera */
+/* стили для полоски загрузки */
+width: 130px;
+height:11px ;
+border-radius: 2px;
+background: DarkGray;
+}
+progress::-webkit-progress-value {
+/* Chrome и Opera */
+/* стили для ползунка */
+border-radius: 2px;
+background: Aquamarine;
+}
+
+.myFavMovies{
+	display: block;
+	position: relative;
+	background-image: url('https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	height:520px;
+	width:1537px;
+	position: relative;
+	margin-left: -8px;
+	margin-top: -22px; 
+
+}
+
+.buttonDisign2{
+	display: inline-block;
+	height: 31px;
+	width: 130px;
+	position: relative;
+	background-color: Gainsboro;
+	
+}
+
+    .vk, .insta, .facebook, .telegram{
+  display: inline-block;
+  position: relative;
+  margin-left: 10px;
+
+}
+
+
+.myadress{
+	display: inline-block;
+	margin-left: 70px;
+	color:Gainsboro;
+}
+
+.enterName, .enterEmail{
+	display: block;
+	height: 33px;
+	width: 251px;
+	background-color:Gainsboro; 
+}
+
+.enterEmail{
+	position: relative;
+	margin-left: 258px;
+	margin-bottom: -39px;
+}
+.enterMess{
+	display: block;
+	height: 140px;
+	width: 511px;
+	background-color:Gainsboro; 
+
+}
+
+.submitButton{
+	display: block;
+	height: 20px;
+	width: 517px;
+}
+
+.sendForm{
+	display: inline-block;
+	position: relative;
+	margin-left: 750px;
+	margin-top: -410px;
+}
